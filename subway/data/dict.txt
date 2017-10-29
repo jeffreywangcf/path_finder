@@ -1,0 +1,60 @@
+59
+49 Yeiv City Hall
+50 Yeiv City Court
+32 Center Street
+31 Lightland Bdg.
+21 Lightland
+46 Lightland Town
+22 S. Lightland
+63 Science Center
+23 Ann Boleyn St.
+24 King Lear III St.
+19 Mac Arthur St.
+20 Spring Field
+18 South Layton
+25 San Monica
+26 S. San Monica
+27 Silver Bay
+45 E. San Monica
+51 King Lear I St.
+33 King Lear II St.
+52 East Layton
+34 Athletic Center
+17 Yeiv Stadium
+16 Layton
+15 North Layton
+53 Back Duxbury
+36 Magna Vista
+37 South Lanayru
+44 Lanayru Town
+38 Lanayru
+55 De Lauret
+47 North Lanayru
+54 Yeiv Museum
+56 Lanaryu Ruins
+6 King Lear IV St.
+42 Dwelly Walk
+41 West Brooks
+66 Brooks Town
+40 Oakland
+39 Oakland Park
+7 Yeiv International Airport
+30 Yeiv Garden
+60 King Lear Square
+9 Yeiv University
+8 Upperland
+29 North YU
+28 West Necula
+58 Necula
+57 North Necula
+10 South Necula
+64 Necula Institution of Technology
+1 Middlesex Town
+2 Middlesex Church
+3 S. Middlesex
+4 Lawn Street
+5 Central Street
+11 West Hyrule
+12 Central Hyrule
+13 East Hyrule
+14 Central Mall
