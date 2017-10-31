@@ -16,8 +16,8 @@
 26 S. San Monica
 27 Silver Bay
 45 E. San Monica
-51 King Lear I St.
-33 King Lear II St.
+51 King Lear II St.
+33 King Lear I St.
 52 East Layton
 34 Athletic Center
 17 Yeiv Stadium
@@ -29,7 +29,7 @@
 44 Lanayru Town
 38 Lanayru
 55 De Lauret
-47 North Lanayru
+43 North Lanayru
 54 Yeiv Museum
 56 Lanaryu Ruins
 6 King Lear IV St.
@@ -44,11 +44,11 @@
 9 Yeiv University
 8 Upperland
 29 North YU
-28 West Necula
-58 Necula
-57 North Necula
-10 South Necula
-64 Necula Institution of Technology
+28 West Nucula
+58 Nucula
+57 North Nucula
+10 South Nucula
+64 Nucula Institution of Technology
 1 Middlesex Town
 2 Middlesex Church
 3 S. Middlesex
