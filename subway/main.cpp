@@ -4,6 +4,8 @@
 #include "graph_algo/ShortestPath.h"
 #include "SubwayPath.h"
 #include<unordered_map>
+#include<cassert>
+#include<cstdio>
 
 #define NODE_LOC "/Users/Excited/CLionProjects/subway/data/nodes.txt"
 #define DICT_LOC "/Users/Excited/CLionProjects/subway/data/dict.txt"
